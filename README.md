@@ -29,7 +29,6 @@
 
 Galerie is a NFT Marketplace that enables the creation, sale, and purchase of digital art as NFTs.
 
-
 <a id='preview'/>
 
 ## :framed_picture: Preview
@@ -52,7 +51,6 @@ Check out how it looks:
   <img alt="Architecture"src="https://res.cloudinary.com/nataliebravo/image/upload/v1626701440/NFT/arquitechure_hunzuw.png">
 <p />
 
-
 <a id='technologies'/>
 
 ## :gear: Built With
@@ -60,20 +58,22 @@ Check out how it looks:
 This project was developed with the following technologies:
 
 #### **Frontend** <sub><sup>React + JavaScript</sup></sub>
-  - [React](https://pt-br.reactjs.org/)
-  - [Axios](https://github.com/axios/axios)
-  - [Redux](https://redux.js.org/)
-  - [Web3.js](https://web3js.readthedocs.io/en/v1.3.4/)
-  - [Material UI](https://material-ui.com/pt/)
+
+- [React](https://pt-br.reactjs.org/)
+- [Axios](https://github.com/axios/axios)
+- [Redux](https://redux.js.org/)
+- [Web3.js](https://web3js.readthedocs.io/en/v1.3.4/)
+- [Material UI](https://material-ui.com/pt/)
 
 #### **Backend** <sub><sup>Express</sup></sub>
-  - [Express](https://expressjs.com/pt-br/)
- 
-#### **Blockchain and Smart Contracts** <sub><sup>Solidity</sup></sub>
-  - [Solidity](https://docs.soliditylang.org/)
-  - [Truffle](https://www.trufflesuite.com/)
-  - [Ganache](https://www.trufflesuite.com/ganache)
 
+- [Express](https://expressjs.com/pt-br/)
+
+#### **Blockchain and Smart Contracts** <sub><sup>Solidity</sup></sub>
+
+- [Solidity](https://docs.soliditylang.org/)
+- [Truffle](https://www.trufflesuite.com/)
+- [Ganache](https://www.trufflesuite.com/ganache)
 
 <a id='how-to-use'/>
 
@@ -82,17 +82,16 @@ This project was developed with the following technologies:
 ### Requirements
 
 To run the application you'll need:
-* [Git](https://git-scm.com)
-* [Node](https://nodejs.org/)
-* [Yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/)
-* [Truffle](https://www.trufflesuite.com/)
-* [Ganache](https://www.trufflesuite.com/ganache)
-* Clone the repository:
-  * ```$ git clone https://github.com/BravoNatalie/NFT-Marketplace.git ```
 
+- [Git](https://git-scm.com)
+- [Node](https://nodejs.org/)
+- [Yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/)
+- [Truffle](https://www.trufflesuite.com/)
+- [Ganache](https://www.trufflesuite.com/ganache)
+- Clone the repository:
+  - `$ git clone https://github.com/NFTknight/Art-Galerie-Marketplace.git `
 
 Now go to project folder and run:
-
 
 ```bash
 $ cd NFT-Marketplace
@@ -122,17 +121,17 @@ $ yarn start
 ## :page_with_curl: TODO
 
 There are some things to be done in the project:
-  - State persistence;
-  - Revise front-end call to the buy and sell functions on the blockchain;
-  - Error handling;
-  - NFT cards to reflect the true information of price coming from the blockchain.
+
+- State persistence;
+- Revise front-end call to the buy and sell functions on the blockchain;
+- Error handling;
+- NFT cards to reflect the true information of price coming from the blockchain.
 
 <a id='license'/>
 
 ## :page_with_curl: License
 
-This project is under the **MIT license**. See the [LICENSE](https://github.com/BravoNatalie/NFT-Marketplace/blob/master/LICENSE) for more information.
-
+This project is under the **MIT license**. See the [LICENSE](https://github.com/NFTknight/Art-Galerie-Marketplace/blob/master/LICENSE) for more information.
 
 ## :mailbox_with_mail: Get in touch!
 
@@ -141,4 +140,4 @@ This project is under the **MIT license**. See the [LICENSE](https://github.com/
 <br/>
   Made with :coffee: and ❤️ by <b>Crypto Knight</b>.
 <p/>
-"# NFT-marketplace" 
+"# NFT-marketplace"
